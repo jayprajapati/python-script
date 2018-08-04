@@ -125,8 +125,8 @@ while 1:
                     except urllib2.URLError:
                         print("Not Connected to internet...retrying" + i)
                         pass
-                #droid.smsSend('9586088526',bodyTxt)
-                print("sms send")
+                droid.smsSend('99999999999',bodyTxt)
+                print("sms sent!")
                 status=droid.smsDeleteMessage(currentId)
                 print(str(status))
                 number=Updatednumber
