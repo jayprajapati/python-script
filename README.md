@@ -1,7 +1,7 @@
 # WhatsApp Spoof 
-This script can be used for hacking whatsapp on android phone.
+####This script can be used for hacking whatsapp on android phone.
 ------
-##### AUTHOR: Jay Prajapati
+
 
 #### Requirements
 1. Victim Android Device.
